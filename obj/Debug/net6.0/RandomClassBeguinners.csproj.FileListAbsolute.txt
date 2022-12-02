@@ -1,0 +1,15 @@
+C:\C#\RandomClassBeguinners\bin\Debug\net6.0\RandomClassBeguinners.exe
+C:\C#\RandomClassBeguinners\bin\Debug\net6.0\RandomClassBeguinners.deps.json
+C:\C#\RandomClassBeguinners\bin\Debug\net6.0\RandomClassBeguinners.runtimeconfig.json
+C:\C#\RandomClassBeguinners\bin\Debug\net6.0\RandomClassBeguinners.dll
+C:\C#\RandomClassBeguinners\bin\Debug\net6.0\RandomClassBeguinners.pdb
+C:\C#\RandomClassBeguinners\obj\Debug\net6.0\RandomClassBeguinners.csproj.AssemblyReference.cache
+C:\C#\RandomClassBeguinners\obj\Debug\net6.0\RandomClassBeguinners.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\RandomClassBeguinners\obj\Debug\net6.0\RandomClassBeguinners.AssemblyInfoInputs.cache
+C:\C#\RandomClassBeguinners\obj\Debug\net6.0\RandomClassBeguinners.AssemblyInfo.cs
+C:\C#\RandomClassBeguinners\obj\Debug\net6.0\RandomClassBeguinners.csproj.CoreCompileInputs.cache
+C:\C#\RandomClassBeguinners\obj\Debug\net6.0\RandomClassBeguinners.dll
+C:\C#\RandomClassBeguinners\obj\Debug\net6.0\refint\RandomClassBeguinners.dll
+C:\C#\RandomClassBeguinners\obj\Debug\net6.0\RandomClassBeguinners.pdb
+C:\C#\RandomClassBeguinners\obj\Debug\net6.0\RandomClassBeguinners.genruntimeconfig.cache
+C:\C#\RandomClassBeguinners\obj\Debug\net6.0\ref\RandomClassBeguinners.dll
